@@ -60,12 +60,7 @@ I hold a Bachelor's degree in Botany from the **University of Gujrat, Pakistan**
 ## 📚 Publications (Selected)
 
 - **Terpene Synthase Genes in Crocus sativus** — *Int. J. Mol. Sci.*, 2025  
-- **Microbial Contributions to Climate Change** — *Taylor & Francis* (Accepted)  
-- **Sustainable Land Use & Biodiversity Conservation** — *Sustainability* (Accepted)
 
-*See full list in my repositories and CV.*
-
----
 
 ## 📊 GitHub Stats & Top Languages
 
