@@ -3,7 +3,7 @@
 
 <!-- Banner/Header -->
 <p align="center">
-  <img src="2aac602b-7a75-4c5a-80e9-925159a759f5.png" alt="Muqaddas Bano Header" />
+  <img src="https://github.com/Muqaddas-Bano/image.git" alt="Muqaddas Bano Header" />
 </p>
 
 # 🌱 Plant Bioinformatics | 🧠 Machine Learning Researcher | 👩‍🔬 Master's Student
