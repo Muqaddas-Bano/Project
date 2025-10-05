@@ -1,9 +1,8 @@
-
-[README_Muqaddas_Bano_Final.md](https://github.com/user-attachments/files/22709597/README_Muqaddas_Bano_Final.md)
+[README_Muqaddas_Bano_Complete.md](https://github.com/user-attachments/files/22709706/README_Muqaddas_Bano_Complete.md)
 
 <!-- Banner/Header -->
 <p align="center">
-  <img src="https://github.com/Muqaddas-Bano/image.git" alt="Muqaddas Bano Header" />
+  <img src="https://raw.githubusercontent.com/Muqaddas-Bano/image/main/Screenshot%202025-10-05%20204649.jpg" alt="Muqaddas Bano Banner" />
 </p>
 
 # 🌱 Plant Bioinformatics | 🧠 Machine Learning Researcher | 👩‍🔬 Master's Student
@@ -74,7 +73,7 @@ I hold a Bachelor's degree in Botany from the **University of Gujrat, Pakistan**
 
 ## 📊 GitHub Stats & Top Languages
 
-![Muqaddas Bano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muqaddas-Bano&show_icons=true&theme=default)
+![Muqaddas Bano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muqaddas-Bano&show_icons=true&theme=default)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muqaddas-Bano&layout=compact)
 
 ---
