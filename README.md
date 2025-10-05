@@ -5,6 +5,7 @@
   <img src="https://raw.githubusercontent.com/Muqaddas-Bano/image/main/Screenshot%202025-10-05%20204649.jpg" alt="Muqaddas Bano Banner" />
 </p>
 
+
 # 🌱 Plant Bioinformatics | 🧠 Machine Learning Researcher | 👩‍🔬 Master's Student
 
 ---
