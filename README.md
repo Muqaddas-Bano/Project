@@ -1,5 +1,3 @@
-[README_Muqaddas_Bano_Complete.md](https://github.com/user-attachments/files/22709706/README_Muqaddas_Bano_Complete.md)
-
 <!-- Banner/Header -->
 <p align="center">
   <img src="https://github.com/Muqaddas-Bano/image/blob/792336f9a954a611ffec5bf0f98088c980c6c609/Screenshot%202025-10-05%20204649.jpg" alt="Muqaddas Bano Banner" />
