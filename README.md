@@ -42,8 +42,7 @@ I hold a Bachelor's degree in Botany from the **University of Gujrat, Pakistan**
 
 ## 📫 Contact Me
 
-- 📧 Email: muqaddasbano12@mails.ucas.ac.cn  
-- 🌐 GitHub: [Muqaddas-Bano](https://github.com/Muqaddas-Bano)  
+- 📧 Email: muqaddasbano786@gmail.com 
 - 🧑‍🎓 LinkedIn: [linkedin.com/in/muqaddas-bano](https://www.linkedin.com/in/muqaddas-bano)  
 - 🐦 X: [@muqaddasbano1](https://x.com/muqaddasbano1)  
 - 🔗 Bsky: [muqaddas-bano.bsky.social](https://muqaddas-bano.bsky.social)
