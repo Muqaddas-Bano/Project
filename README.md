@@ -3,9 +3,6 @@
   <img src="https://github.com/Muqaddas-Bano/image/blob/792336f9a954a611ffec5bf0f98088c980c6c609/Screenshot%202025-10-05%20204649.jpg" alt="Muqaddas Bano Banner" />
 </p>
 
-
-# 🌱 Plant Bioinformatics | 🧠 Machine Learning Researcher | 👩‍🔬 Master's Student
-
 ---
 
 ## 👩‍🔬 About Me
